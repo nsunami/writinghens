@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Grad Student Writing Group at the University of Delaware</title>
+    <link>/tags/about/</link>
+    <description>Recent content in About on Grad Student Writing Group at the University of Delaware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Mission The mission of Grad Student Writing Group is to provide accountability for writing to survive, thrive, and publish in academia.
+Meaning of &amp;ldquo;Writing&amp;rdquo; &amp;ldquo;Writing&amp;rdquo; means any activity that happens between the conception of an idea and the publication. (Definition adopted from http://www.facultydiversity.org/)
+What we do  Writing Goals Check-up: We report progress of previous writing goals, reflect, and set new goals for the next week.
+ Write-on-Site: We sit together in one room and write on their respective projects.</description>
+    </item>
+    
+  </channel>
+</rss>

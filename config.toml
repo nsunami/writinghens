@@ -1,0 +1,101 @@
+## Basic Configuration
+
+baseurl = "https://writinghens.org/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Writing Hens"
+title = "Grad Student Writing Group at the University of Delaware"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "UA-130805282-1"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Writing Hens"
+intro = "Grad Student Writing Group at the University of Delaware"
+description = "Accountability to survive, thrive, and publish. <br> <br> Writing Group provides support for grad students to work towards publications. We accomplish this goal by Weekly Goal Check-ups and Write-on-Site activities."
+authorimage = "logo.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+ 
+## Social Accounts
+[params.social]
+#github = ""
+#instagram = ""
+#xing = "<username>"
+#linkedin = "<username>"
+twitter = "@writinghens"
+facebook = "writinghens"
+#google = "<username>"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<username>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#skype = "<username>"
+telegram = "joinchat/EPNT_Q5tXdXft7xK7rsgRg"
+#whatsapp = "<username>"
+email = "writinghens@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© Writinghens"
+poweredby = true
+highlightjs = true
+socialmarkup = true
+
+## Main Menu
+#[[menu.main]]
+#    name = "blog"
+#    weight = 100
+#    identifier = "blog"
+#    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+
+[[menu.main]]
+    name = "Join Us"
+    weight = 300
+    url = "/joinus/"
+    
+
+    
+    
+#[[menu.main]]
+#    name = "coderag"
+#    identifier = "coderag"
+#    weight = 300
+#    url = "/coderag/"
+#

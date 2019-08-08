@@ -1,0 +1,8 @@
+---
+site: blogdown:::blogdown_site
+---
+
+```{r}
+blogdown::serve_site()
+```
+
