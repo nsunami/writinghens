@@ -6,7 +6,6 @@
     <description>Recent content in Categories on Grad Student Writing Group at the University of Delaware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,48 +20,16 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>/categories/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/about/</guid>
       <description></description>
     </item>
     
-    <item>
-      <title>Ad</title>
-      <link>/categories/ad/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/categories/ad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Articles</title>
-      <link>/categories/articles/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/categories/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Propaganda</title>
-      <link>/categories/propaganda/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>/categories/propaganda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
+  </channel>
+</rss>If you need individualized assistance on grammer and editing etc., please check out Writing Center for their wonderful resources!</description>
     </item>
     
   </channel>

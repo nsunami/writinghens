@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "43811309",
+    "hash" : "0",
     "id" : "1DDD0B64",
     "lastKnownWriteTime" : 1551986919,
     "last_content_update" : 1551986919,
     "path" : "~/Dropbox/GitHub/goa/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "4,6",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
