@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Grad Student Writing Group at the University of Delaware</title>
-    <link>/categories/</link>
+    <link>https://writinghens.org/categories/</link>
     <description>Recent content in Categories on Grad Student Writing Group at the University of Delaware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://writinghens.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Join us</title>
-      <link>/categories/join-us/</link>
+      <title>about</title>
+      <link>https://writinghens.org/categories/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/join-us/</guid>
+      <guid>https://writinghens.org/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>about</title>
-      <link>/categories/about/</link>
+      <title>Join us</title>
+      <link>https://writinghens.org/categories/join-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/about/</guid>
+      <guid>https://writinghens.org/categories/join-us/</guid>
       <description></description>
     </item>
     

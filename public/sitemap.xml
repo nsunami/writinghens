@@ -1,48 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://writinghens.org/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>https://writinghens.org/tags/about/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <priority>0</priority>
+    <loc>https://writinghens.org/categories/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/join-us/</loc>
-    <priority>0</priority>
+    <loc>https://writinghens.org/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/join-us/</loc>
-    <priority>0</priority>
+    <loc>https://writinghens.org/</loc>
   </url>
   
   <url>
-    <loc>/joinus/</loc>
+    <loc>https://writinghens.org/tags/join-us/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>https://writinghens.org/categories/join-us/</loc>
   </url>
   
   <url>
-    <loc>/categories/about/</loc>
-    <priority>0</priority>
+    <loc>https://writinghens.org/joinus/</loc>
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
-    <priority>0</priority>
+    <loc>https://writinghens.org/tags/</loc>
   </url>
   
 </urlset>

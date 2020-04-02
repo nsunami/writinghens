@@ -10,7 +10,7 @@ showpagemeta: false
 
 # Mission
 
-The mission of the Writing Group is to help graduate students to achieve their writing goals while maintaining a good work-life balance. We are committed to maximize productivity and quality of life of graduate students.
+The mission of the Writing Group is to help graduate students to achieve their writing goals while making sure that thir life comes first and work follow later. We are committed to maximize productivity and quality of life of graduate students.
 
 
 # Meaning of "Writing"

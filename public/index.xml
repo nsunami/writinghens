@@ -1,34 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grad Student Writing Group at the University of Delaware</title>
-    <link>/</link>
+    <link>https://writinghens.org/</link>
     <description>Recent content on Grad Student Writing Group at the University of Delaware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://writinghens.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://writinghens.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://writinghens.org/about/</guid>
       <description>Mission The mission of the Writing Group is to help graduate students to achieve their writing goals while maintaining a good work-life balance. We are committed to maximize productivity and quality of life of graduate students.
 Meaning of &amp;ldquo;Writing&amp;rdquo; &amp;ldquo;Writing&amp;rdquo; means any activity that happens between the conception of an idea and the publication. (Definition adopted from http://www.facultydiversity.org/)
-What we do  Write-on-Site: We sit together in one room and write on their respective projects.</description>
+What we do   Write-on-Site: We sit together in one room and write on their respective projects.</description>
     </item>
     
     <item>
       <title>Join us</title>
-      <link>/joinus/</link>
+      <link>https://writinghens.org/joinus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/joinus/</guid>
-      <description>Join Our Messenger Group!
-If you have any questions, please contact Nami Sunami (nsunami@udel.edu).
+      <guid>https://writinghens.org/joinus/</guid>
+      <description>If you have any questions, please contact Nami Sunami (nsunami@udel.edu).
 You can check us out on Facebook (https://www.facebook.com/writinghens/) or on Twitter as well (https://twitter.com/WritingHens)
 Further help from the writing center The writing group is mainly intended as a self-help group for accontability. If you need individualized assistance on grammer and editing etc., please check out Writing Center for their wonderful resources!</description>
     </item>

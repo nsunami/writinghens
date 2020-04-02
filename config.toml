@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Writing Hens"
 intro = "Grad Student Writing Group at the University of Delaware"
-description = "Accountability to survive, thrive, and publish. <br> <br> Writing Group provides support for grad students to work towards publications. We accomplish this goal by Weekly Goal Check-ups and Write-on-Site activities."
+description = ""
 authorimage = "logo.png"
 dateformat = "Jan 2, 2006"
 
@@ -62,7 +62,7 @@ facebook = "writinghens"
 #soundcloud = "<username>"
 #tumblr = "<username>"
 #skype = "<username>"
-telegram = "joinchat/EPNT_Q5tXdXft7xK7rsgRg"
+#telegram = "joinchat/EPNT_Q5tXdXft7xK7rsgRg"
 #whatsapp = "<username>"
 email = "writinghens@gmail.com"
 

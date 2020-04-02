@@ -1,7 +1,7 @@
 # Website for UD Graduate Student Writing Group
 
 ## About
-
+Website for Writing Hens - Graduate Student Writing Group at the University of Delaware
 
 
 ## License
