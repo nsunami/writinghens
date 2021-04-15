@@ -10,7 +10,7 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Writing Hens"
-title = "Grad Student Writing Group at the University of Delaware"
+title = "Writing Hens | Graduate Student Writing Group at the University of Delaware"
 
 theme = "hugo-goa"
 
@@ -29,7 +29,7 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "Providing accountability and support for graduate students"
 keywords = "minimalist,blog,goa,hugo,writing"
  
 ## Social Accounts
